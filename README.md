@@ -63,7 +63,7 @@ Modèle de machine learning pour détecter les transactions frauduleuses sur un 
 
 ## 📈 Comparaison Finale
 
-| M��trique | Régression Logistique | XGBoost | Gain |
+| Métrique | Régression Logistique | XGBoost | Gain |
 |----------|----------------------|---------|------|
 | PR-AUC (test) | 0.678 | **0.825** | +21.7% |
 | Recall (test) | 0.579 | **0.800** | +38.2% |
